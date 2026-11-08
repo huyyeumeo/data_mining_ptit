@@ -1,0 +1,4 @@
+,Accuracy,Error rate,Sensitivity/Recall,Specificity,Precision,F1,AUC
+Naive Bayes,0.9849,0.0151,0.945,0.9907,0.9364,0.9406,0.9911
+Linear SVM,0.9855,0.0145,0.9174,0.9954,0.9662,0.9412,0.9929
+Decision Tree,0.9768,0.0232,0.922,0.9847,0.8973,0.9095,0.9512
